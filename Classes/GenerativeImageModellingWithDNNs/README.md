@@ -1,4 +1,5 @@
 # GenerativeImageModellingWithDNNs
+### Forked from leongatys
 Here I will share the code from the lectures of the course: Generative Image Modelling with Deep Neural Networks taught in the Summer Term 2017 at the Graduate School for Neural Information Processing, University of Tuebingen.
 All code and implementations are such that they should comfortably run on a CPU.
 
